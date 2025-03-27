@@ -1,2 +1,2 @@
 # Dodge-the-box
-A 3D game made using JavaScript and Three.js
+A 3D game programmed using JavaScript and Three.js
